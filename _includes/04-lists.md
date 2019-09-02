@@ -1,3 +1,3 @@
-*Pizza
-*Josh
-*Lofty
+* Pizza
+* Josh
+* Lofty
